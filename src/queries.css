@@ -1,0 +1,114 @@
+/* 1008px */
+@media (max-width: 63em) {
+  .map-section {
+    height: 35rem;
+    width: 50rem;
+  }
+}
+
+/* 928px */
+@media (max-width: 58em) {
+  .main-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .legend {
+    max-width: 40rem;
+    margin-bottom: 2.4rem;
+  }
+}
+
+/* 576px */
+@media (max-width: 36em) {
+  .map-section {
+    height: 28rem;
+    width: 40rem;
+  }
+
+  .legend {
+    padding: 1.2rem;
+  }
+
+  .grid-legend {
+    column-gap: 1.2rem;
+  }
+}
+
+/* 480px */
+@media (max-width: 30em) {
+  h1 {
+    font-size: 2.8rem;
+    padding-top: 1.6rem;
+  }
+  .App {
+    gap: 1.6rem;
+  }
+
+  .App p {
+    max-width: 36rem;
+  }
+}
+
+/* 440px */
+@media (max-width: 27.5em) {
+  .map-section {
+    width: 38rem;
+  }
+
+  .main-section {
+    gap: 1.6rem;
+  }
+
+  .grid-legend {
+    column-gap: 0.6rem;
+  }
+
+  .legend {
+    padding: 0.8rem;
+  }
+}
+
+/* 408px */
+@media (max-width: 25.5em) {
+  .App p {
+    max-width: 32rem;
+  }
+
+  .map-section {
+    width: 34rem;
+  }
+}
+
+/* 376px */
+@media (max-width: 23.5em) {
+  .App p {
+    max-width: 28rem;
+  }
+
+  .map-section {
+    width: 32rem;
+  }
+}
+
+/* 344px */
+@media (max-width: 21.5em) {
+  .App p {
+    max-width: 28rem;
+  }
+
+  .map-section {
+    width: 30rem;
+  }
+}
+
+/* 312px */
+@media (max-width: 19.5em) {
+  .App p {
+    max-width: 28rem;
+  }
+
+  .map-section {
+    width: 29rem;
+  }
+}

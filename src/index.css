@@ -1,0 +1,104 @@
+@import "leaflet/dist/leaflet.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(244, 234, 239);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  font-size: 3.2rem;
+  padding-top: 3.2rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.4rem;
+}
+
+.App p {
+  font-size: 1.6rem;
+}
+
+.main-section {
+  display: flex;
+  gap: 2rem;
+}
+
+.map-section {
+  height: 40rem;
+  width: 60rem;
+  border: solid 2px black;
+}
+
+.legend {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid 2px black;
+  padding: 2rem;
+  max-height: 29rem;
+}
+
+.legend-details .legend-colour {
+  width: 6rem; /* Adjust the width for the size of the color strip */
+  height: 1rem; /* Adjust the height for the thickness of the strip */
+  background-color: #ed79eb; /* Change to your desired color */
+  align-self: center;
+  gap: 1rem;
+  /* margin-right: 8px; */
+  /* border: 1px solid #ccc; Optional: add a border for better visibility */
+}
+
+.grid-legend {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  align-items: center;
+  justify-items: center;
+  column-gap: 3.2rem;
+}
+
+.legend-details {
+  width: 13rem;
+  height: 8rem;
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
+}
+
+.legend-details p {
+  align-self: center;
+  justify-self: center;
+  font-size: 1.2rem;
+}
+
+.icon-size {
+  width: 6rem;
+  height: 8rem;
+}
