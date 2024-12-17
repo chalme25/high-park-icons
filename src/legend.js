@@ -9,7 +9,7 @@ function Legend() {
         </div>
         <div className="legend-details">
           <img
-            src="/imgs/high-park-icon-fish.png"
+            src="/high-park-icons/imgs/high-park-icon-fish.png"
             alt="A fish icon."
             className="icon-size"
           />
@@ -17,7 +17,7 @@ function Legend() {
         </div>
         <div className="legend-details">
           <img
-            src="/imgs/high-park-icon-sakura.png"
+            src="/high-park-icons/imgs/high-park-icon-sakura.png"
             alt="A sakura icon."
             className="icon-size"
           />
@@ -25,7 +25,7 @@ function Legend() {
         </div>
         <div className="legend-details">
           <img
-            src="/imgs/high-park-icon-soccer.png"
+            src="/high-park-icons/imgs/high-park-icon-soccer.png"
             alt="A soccer ball icon."
             className="icon-size"
           />
@@ -33,7 +33,7 @@ function Legend() {
         </div>
         <div className="legend-details">
           <img
-            src="/imgs/high-park-icon-tower.png"
+            src="/high-park-icons/imgs/high-park-icon-tower.png"
             alt="A tower icon."
             className="icon-size"
           />
@@ -41,7 +41,7 @@ function Legend() {
         </div>
         <div className="legend-details">
           <img
-            src="/imgs/high-park-icon-zoo.png"
+            src="/high-park-icons/imgs/high-park-icon-zoo.png"
             alt="A flamingo icon."
             className="icon-size"
           />

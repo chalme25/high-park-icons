@@ -3,30 +3,30 @@
     "id": 1,
     "name": "Sakura",
     "position": [43.645, -79.4675],
-    "iconURL": "/imgs/high-park-icon-sakura.png"
+    "iconURL": "/high-park-icons/imgs/high-park-icon-sakura.png"
   },
   {
     "id": 2,
     "name": "Fishing Pier",
     "position": [43.642, -79.46616],
-    "iconURL": "/imgs/high-park-icon-fish.png"
+    "iconURL": "/high-park-icons/imgs/high-park-icon-fish.png"
   },
   {
     "id": 3,
     "name": "High Park Zoo",
     "position": [43.64358, -79.4634],
-    "iconURL": "/imgs/high-park-icon-zoo.png"
+    "iconURL": "/high-park-icons/imgs/high-park-icon-zoo.png"
   },
   {
     "id": 4,
     "name": "Football Pitch",
     "position": [43.6489, -79.4668],
-    "iconURL": "/imgs/high-park-icon-soccer.png"
+    "iconURL": "/high-park-icons/imgs/high-park-icon-soccer.png"
   },
   {
     "id": 5,
     "name": "Play Structure",
     "position": [43.64358, -79.457],
-    "iconURL": "/imgs/high-park-icon-tower.png"
+    "iconURL": "/high-park-icons/imgs/high-park-icon-tower.png"
   }
 ]
