@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { MapContainer, TileLayer, Marker, Popup, GeoJSON } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, GeoJSON } from "react-leaflet";
 import iconData from "./icons.json";
 import CreateIcon from "./markers";
-
-import L from "leaflet";
 
 const parkBounds = [
   [43.62, -79.49], // Southwest corner (approximate)

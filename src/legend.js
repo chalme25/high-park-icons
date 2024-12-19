@@ -48,6 +48,7 @@ function Legend() {
           <p>High Park Zoo</p>
         </div>
       </div>
+      <p className="attribution">Map Data: Toronto Open Data.</p>
     </div>
   );
 }
