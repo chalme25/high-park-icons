@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/high-park-icons/static/css/main.673bb3de.css",
-    "main.js": "/high-park-icons/static/js/main.d6fb647a.js",
+    "main.css": "/high-park-icons/static/css/main.53aea4f4.css",
+    "main.js": "/high-park-icons/static/js/main.f153215b.js",
     "index.html": "/high-park-icons/index.html",
-    "main.673bb3de.css.map": "/high-park-icons/static/css/main.673bb3de.css.map",
-    "main.d6fb647a.js.map": "/high-park-icons/static/js/main.d6fb647a.js.map"
+    "main.53aea4f4.css.map": "/high-park-icons/static/css/main.53aea4f4.css.map",
+    "main.f153215b.js.map": "/high-park-icons/static/js/main.f153215b.js.map"
   },
   "entrypoints": [
-    "static/css/main.673bb3de.css",
-    "static/js/main.d6fb647a.js"
+    "static/css/main.53aea4f4.css",
+    "static/js/main.f153215b.js"
   ]
 }
